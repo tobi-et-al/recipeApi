@@ -7,8 +7,6 @@
      use Illuminate\Http\Request;
      use App\Recipe;
 
-     // TODO: rename controller
-
     class RecipeController extends Controller
     {
         private $data;
